@@ -1,0 +1,1 @@
+lol=msgbox("haha tu sei uno stupido! Tu veramenti ci credi a sti .bat!?",16,"errore")
